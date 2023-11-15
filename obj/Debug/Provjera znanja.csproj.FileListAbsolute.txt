@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\Provjera znanja\bin\Debug\Provjera znanja.exe.config
+C:\Users\ucenik\source\repos\Provjera znanja\bin\Debug\Provjera znanja.exe
+C:\Users\ucenik\source\repos\Provjera znanja\bin\Debug\Provjera znanja.pdb
+C:\Users\ucenik\source\repos\Provjera znanja\obj\Debug\Provjera znanja.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Provjera znanja\obj\Debug\Provjera znanja.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Provjera znanja\obj\Debug\Provjera znanja.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Provjera znanja\obj\Debug\Provjera znanja.exe
+C:\Users\ucenik\source\repos\Provjera znanja\obj\Debug\Provjera znanja.pdb
